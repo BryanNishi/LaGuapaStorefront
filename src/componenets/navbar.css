@@ -1,0 +1,11 @@
+.navbar {
+  height: 8rem;
+  width: 100vw;
+  background-image: linear-gradient(
+    to bottom,
+    rgb(253, 253, 253),
+    rgba(255, 0, 0, 0)
+  );
+  position: fixed;
+  margin-bottom: 1rem;
+}
